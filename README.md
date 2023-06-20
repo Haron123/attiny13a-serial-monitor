@@ -6,6 +6,8 @@ FOR HIS OLED LIBARY
 
 connect the Host with the PB1 pin on the attiny13a, PB2 is used for looking into the internal timings
 
+COMPILE USING AVR-GCC WITH Oz OPTIMIZATION
+
 # PROTOCOL SPECIFICS :  
 Bittimes are 45us  
   
