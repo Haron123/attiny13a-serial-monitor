@@ -25,3 +25,5 @@ IF YOU HAVE A COMMAND REQUEST YOU CAN TRY TO CONTACT ME ABOUT IT, I GOT ENOUGH C
 After sending a Byte successfully (which the slave wont tell you), you gotta wait another 150us for the    
 Slave to write to the display, if you need a higher speed you can also wait less   
 (no less than 100us though even at 100us issues arrise), recommended minimum is 120us. and Stable value is 150us  
+
+# I HAVE INCLUDED A DEMO FOR HOW TO USE AN ARDUINO AS HOST
