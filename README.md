@@ -1,5 +1,9 @@
 # attiny13a-serial-monitor
 a single data wire, serial monitor on an attiny13a using a 128x64 oled ssd1306
+(just to clarify the attiny13 is the slave accepting serial text from a host)
+YOU CAN ONLY SEND UPPERCASE ASCII LETTERS KEEP THAT IN MIND!
+
+this code assumes ur running at a frequency of 9.6mhz
 
 HUGE THANKS TO WAGIMINATOR FOR HIS OLED LIBARY https://github.com/wagiminator/ATtiny13-TinyOLEDdemo/tree/main
 FOR HIS OLED LIBARY
