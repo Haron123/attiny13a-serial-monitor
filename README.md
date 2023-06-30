@@ -31,3 +31,5 @@ Slave to write to the display, if you need a higher speed you can also wait less
 (no less than 100us though even at 100us issues arrise), recommended minimum is 120us. and Stable value is 150us  
 
 # I HAVE INCLUDED A DEMO FOR HOW TO USE AN ARDUINO AS HOST
+
+![IMG_20230630_105617](https://github.com/Haron123/attiny13a-serial-monitor/assets/31776616/140ad96d-f747-47c0-ba31-1111dc765e5f)
